@@ -19,6 +19,4 @@
 
 extern void DISP_genereaza_caracterele(u8 in, u8 *char1, u8 *char2);
 
-
-
 #endif

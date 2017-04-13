@@ -12,7 +12,6 @@ Task_struct os_tasks[]={
      {1000, 1000, task1_interogheaza_perif1},
      {1000, 1000, task2_interogheaza_perif2},
 	 {1200, 1200, task3_citeste_butoanele}
-
 };
 
 

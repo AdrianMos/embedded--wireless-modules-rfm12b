@@ -39,10 +39,4 @@ DB4, DB5, DB6, DB7  -> PORTC pins 0,1,2,3
 #define DB6 2 //pin 2
 #define DB7 3 //pin 3
 
-
-
-
-
-
-
 #endif
