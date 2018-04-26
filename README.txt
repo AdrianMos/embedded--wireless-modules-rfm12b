@@ -1,4 +1,10 @@
+
 Copyright (C) 2008, Adrian Raul Mos
+
+Warning:
+  I strongly recommend to refactor the code if you use anything from this project.
+  No effort has been invested in code readability during development.
+
 
 System Overview:
 
